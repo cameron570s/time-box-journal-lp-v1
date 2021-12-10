@@ -1,0 +1,777 @@
+/* ******************
+ */
+/* Break for 1078PX */
+@media all and (max-width: 67.5em) {
+  /* ******************
+HEADING SECTION
+********************* */
+  .logo {
+    width: 15%;
+  }
+
+  /* ******************
+ABOUT SECTION
+********************* */
+
+  .about-paragraph {
+    font-size: 1.6rem;
+  }
+
+  /* ******************
+FOOTER SECTION
+********************* */
+
+  .footer-section {
+    padding: 3rem 1rem;
+  }
+
+  .footer-img-box {
+    padding-left: 10rem;
+    padding-right: 10rem;
+  }
+
+  .footer-bottom-line {
+    padding-left: 10rem;
+    padding-right: 10rem;
+  }
+  .footer-email-heading {
+    font-size: 1.5rem;
+  }
+
+  /* End Media */
+}
+
+/* Break for 959px & under */
+
+@media all and (max-width: 59.9375em) {
+  /* ******************
+FOOTER SECTION
+********************* */
+
+  .footer-logo {
+    width: 20%;
+  }
+
+  .footer-email-heading {
+    font-size: 1.3rem;
+  }
+
+  .footer-email-paragraph {
+    font-size: 1rem;
+  }
+
+  .email-signup-btn {
+    padding: 0.7rem 1rem;
+    padding-bottom: 1.2rem;
+    font-size: 1.3rem;
+    margin-top: 0;
+    padding-bottom: 1rem;
+    padding-top: 0.8rem;
+  }
+
+  .footer-email-box {
+    padding: 0.91rem 0.5rem;
+  }
+  /* End Media */
+}
+
+/* Media for 916px & below */
+@media all and (max-width: 57.25em) {
+  /* ******************
+HERO SECTION
+********************* */
+
+  .hero-title {
+    font-size: 2.5rem;
+  }
+
+  .hero-paragraph {
+    font-size: 1.4rem;
+  }
+
+  /* ******************
+ABOUT SECTION
+********************* */
+
+  .about-heading {
+    font-size: 2rem;
+  }
+
+  .about-paragraph {
+    font-size: 1.4rem;
+  }
+
+  .compare-box-list-item {
+    font-size: 1.4rem;
+  }
+
+  /* ******************
+HOW IT WORKS SECTION
+********************* */
+
+  .hiw-steps-paragraph {
+    font-size: 1.4rem;
+  }
+
+  /* ******************
+FEATURES SECTION
+********************* */
+
+  .features-paragraph {
+    font-size: 1.2rem;
+  }
+
+  .task-group-icon {
+    font-size: 15rem;
+  }
+
+  /* ******************
+FOOTER SECTION
+********************* */
+
+  .footer-email-heading {
+    font-size: 1.1rem;
+  }
+
+  .footer-email-paragraph {
+    font-size: 1rem;
+  }
+
+  .email-signup-btn {
+    padding: 0 1rem;
+    font-size: 1.3rem;
+
+    padding-bottom: 0.7rem;
+    padding-top: 0.6rem;
+  }
+
+  .footer-email-box {
+    padding: 0.6rem 0.1rem;
+    width: 70%;
+  }
+
+  .footer-items {
+    padding-left: 10rem;
+    padding-right: 10rem;
+  }
+
+  /* End media */
+}
+
+/* Media for 848px */
+@media all and (max-width: 53em) {
+  /* ******************
+PRICING SECTION
+********************* */
+
+  .pricing-title {
+    font-size: 2.5rem;
+  }
+
+  .pricing-paragraph {
+    font-size: 1.8rem;
+  }
+
+  /* ******************
+FOOTER SECTION
+********************* */
+
+  .footer-email-heading {
+    font-size: 1rem;
+  }
+
+  .footer-email-paragraph {
+    font-size: 1rem;
+  }
+
+  .email-signup-btn {
+    padding: 0 0.5rem;
+    font-size: 1.2rem;
+
+    padding-bottom: 0.7rem;
+    padding-top: 0.6rem;
+  }
+
+  .footer-email-box {
+    padding: 0.6rem 0.1rem;
+    width: 60%;
+  }
+
+  .footer-items {
+    padding-left: 10rem;
+    padding-right: 10rem;
+  }
+  /* Media */
+}
+
+/* Media for 780px */
+@media all and (max-width: 48.75em) {
+  /* ******************
+HERO SECTION
+********************* */
+  .hero-title {
+    font-size: 2rem;
+  }
+
+  .hero-paragraph {
+    font-size: 1.2rem;
+  }
+
+  .hero-img {
+    width: 80%;
+  }
+
+  .hero-cta-btn {
+    margin-bottom: 1.5rem;
+
+    padding: 1rem 2rem;
+    font-size: 1.3rem;
+
+    border: 2px solid black;
+    background-color: white;
+    border-color: #2196f3;
+    color: dodgerblue;
+    border-radius: 5px;
+  }
+
+  /* ******************
+ABOUT SECTION
+********************* */
+
+  .about-paragraph {
+    width: 60%;
+  }
+
+  /* ******************
+HOW IT WORKS SECTION
+********************* */
+
+  .hiw-paragraph {
+    width: 60%;
+  }
+
+  .hiw-steps-paragraph {
+    font-size: 1.2rem;
+  }
+
+  /* ******************
+FEATURES SECTION
+********************* */
+  .feature-title {
+    font-size: 1.5rem;
+  }
+
+  .features-paragraph {
+    font-size: 1.1rem;
+  }
+
+  .gmail-sync-icon,
+  .task-group-icon,
+  .progress-tracker-icon {
+    font-size: 15rem;
+  }
+
+  .progress-tracker-feature,
+  .task-group-feature,
+  .gmail-sync-feature {
+    gap: 10rem;
+  }
+
+  /* ******************
+FOOTER SECTION
+********************* */
+
+  .footer-logo {
+    width: 25%;
+  }
+
+  .footer-contact-btn {
+    font-size: 1.2rem;
+  }
+
+  /* END Media */
+}
+
+/* Media for 700px */
+/* Menu gets hidden here & mobile menu burger is displayed */
+
+@media all and (max-width: 43.75em) {
+  /* ******************
+HEADING SECTION
+********************* */
+
+  .logo {
+    width: 20%;
+  }
+
+  .main-nav-list {
+    display: none;
+  }
+
+  .mobile-nav-icon {
+    display: block;
+    font-size: 3rem;
+  }
+
+  .footer-logo {
+    width: 30%;
+  }
+  /* End Media */
+}
+
+/* Media for 600px */
+@media all and (max-width: 37.5em) {
+  /* ******************
+HERO SECTION
+********************* */
+
+  .section-hero {
+    padding: 0 2.5rem;
+  }
+
+  .hero-content-box {
+    text-align: left;
+    width: 90%;
+  }
+
+  .hero-img {
+    width: 80%;
+    margin: 0 auto;
+    margin-left: 2rem;
+  }
+
+  /* ******************
+ABOUT SECTION
+********************* */
+
+  .compare-box-list-item {
+    font-size: 1.1rem;
+  }
+
+  /* ******************
+HOW IT WORKS SECTION
+********************* */
+
+  .hiw-paragraph {
+    font-size: 1.4rem;
+  }
+
+  .hiw-steps-paragraph {
+    font-size: 1.1rem;
+  }
+
+  .hiw-steps {
+    padding: 0 1rem;
+  }
+
+  .hiw-cta {
+    font-size: 1.3rem;
+  }
+
+  /* ******************
+FEATURES SECTION
+********************* */
+
+  .features-paragraph {
+    font-size: 1.1rem;
+  }
+
+  .gmail-sync-icon,
+  .task-group-icon,
+  .progress-tracker-icon {
+    font-size: 12rem;
+  }
+
+  .progress-tracker-feature,
+  .task-group-feature,
+  .gmail-sync-feature {
+    gap: 5rem;
+  }
+
+  /* Footer Section */
+
+  .footer-items {
+    padding-left: 5rem;
+    padding-right: 5rem;
+  }
+
+  .footer-logo {
+    width: 30%;
+  }
+
+  .footer-img-box {
+    padding-left: 5rem;
+    padding-right: 5rem;
+  }
+
+  .footer-bottom-line {
+    padding-left: 5rem;
+    padding-right: 5rem;
+  }
+
+  /* End media */
+}
+
+/* Media for 500px */
+@media all and (max-width: 31.25em) {
+  /* ******************
+HERO SECTION
+********************* */
+
+  .hero-title {
+    display: inline-block;
+    text-align: center;
+    margin: 0 auto;
+    font-size: 1.9rem;
+    margin-bottom: 1rem;
+  }
+
+  .logo {
+    width: 25%;
+  }
+
+  .section-hero {
+    display: block;
+    /* display: grid;
+    grid-template-columns: repeat(1, 1fr); */
+    max-width: 120rem;
+    padding: 0 2.2rem;
+  }
+
+  .hero-content-box {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+
+  .hero-testimonial {
+    width: 100%;
+    margin: 1.4rem auto;
+  }
+
+  .hero-img {
+    display: block;
+    width: 60%;
+    margin: 1rem auto;
+    margin-top: 3rem;
+  }
+
+  /* ******************
+ABOUT SECTION
+********************* */
+
+  .about-paragraph {
+    font-size: 1.3rem;
+    width: 100%;
+  }
+
+  .to-from-boxes {
+    gap: 5rem;
+  }
+
+  /* ******************
+HOW IT WORKS SECTION
+********************* */
+
+  .how-it-works-section {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
+  .hiw-heading-text {
+    font-size: 1.9rem;
+    text-align: center;
+  }
+
+  .hiw-heading-line {
+    text-align: center;
+    margin: 0 auto;
+  }
+
+  .hiw-paragraph {
+    text-align: center;
+    font-size: 1.3rem;
+    width: 100%;
+    margin-top: 1rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+
+  /* ******************
+FEATURES SECTION
+********************* */
+
+  .progress-tracker-feature,
+  .task-group-feature,
+  .gmail-sync-feature {
+    padding: 0 4.2rem;
+  }
+
+  /* ******************
+FOOTER SECTION
+********************* */
+
+  .footer-logo {
+    width: 40%;
+  }
+
+  .footer-heading {
+    font-size: 1.2rem;
+  }
+
+  .footer-link a {
+    font-size: 1rem;
+  }
+
+  .footer-items {
+    padding-left: 3rem;
+    padding-right: 3rem;
+  }
+
+  .footer-line {
+    width: 90%;
+  }
+
+  .footer-contact-btn {
+    font-size: 1rem;
+  }
+
+  /* End media */
+}
+
+/* Media for 450px */
+@media all and (max-width: 28.125em) {
+  /* Heading section */
+
+  .logo {
+    width: 35%;
+  }
+
+  /* ******************
+ABOUT SECTION
+********************* */
+
+  .about-section {
+    padding-left: 5rem;
+  }
+
+  .about-heading {
+    font-size: 1.7rem;
+    text-align: left;
+  }
+
+  .center-sep-line {
+    text-align: left;
+    margin: 0.5rem 0;
+  }
+
+  .about-paragraph {
+    text-align: left;
+    width: 80%;
+    margin-left: 0;
+    margin-top: 1rem;
+  }
+
+  .to-from-boxes {
+    display: block;
+    margin: 0 auto;
+  }
+
+  .about-box-heading {
+    font-size: 1.5rem;
+    margin-bottom: 1.5rem;
+    margin-top: 2.5rem;
+  }
+
+  .compare-box-list-item {
+    font-size: 1.5rem;
+  }
+
+  /* ******************
+PRICING SECTION
+********************* */
+
+  .pricing-title {
+    font-size: 2.5rem;
+  }
+
+  /* End media */
+}
+
+/* ********************************** */
+/* Media for 400px */
+/* IMPORTANT */
+/* EVERYTHING from here goes to single column for mobile devices */
+
+@media all and (max-width: 25em) {
+  /* ******************
+HOW IT WORKS SECTION
+********************* */
+
+  .hiw-steps {
+    display: block;
+  }
+
+  .step-icons {
+    width: 20%;
+    margin-top: 2.5rem;
+  }
+
+  .hiw-steps-paragraph {
+    font-size: 1.3rem;
+  }
+
+  /* ******************
+FEATURES SECTION
+********************* */
+
+  .progress-tracker-feature,
+  .task-group-feature,
+  .gmail-sync-feature {
+    flex-direction: column;
+    gap: 2rem;
+  }
+
+  .gmail-sync-img:nth-child(2) {
+    order: -1;
+  }
+
+  .progress-tracker-img:nth-child(2) {
+    order: -1;
+  }
+
+  .feature-title {
+    text-align: center;
+  }
+
+  .features-paragraph {
+    text-align: center;
+  }
+
+  .gmail-sync-icon,
+  .task-group-icon,
+  .progress-tracker-icon {
+    margin-top: 2rem;
+  }
+
+  /* ******************
+PRICING SECTION
+********************* */
+
+  .pricing-title {
+    font-size: 2rem;
+  }
+
+  .pricing-paragraph {
+    font-size: 1.5rem;
+  }
+
+  /* ******************
+FOOTER SECTION
+********************* */
+
+  .footer-img-box {
+    display: none;
+  }
+
+  .footer-items {
+    /* grid-template-columns: 50% 50%; */
+
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .footer-section-1,
+  .footer-section-2 {
+    grid-column: span 1;
+  }
+
+  .footer-section-1,
+  .footer-section-2 {
+    margin-bottom: 3rem;
+  }
+
+  .footer-section-3 {
+    grid-column: span 2;
+  }
+
+  .footer-bottom-line {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .footer-social-links:nth-child(2) {
+    order: -1;
+  }
+
+  .footer-social-links {
+    margin-bottom: 2rem;
+  }
+
+  /* End Media */
+}
+
+/* Media for 320PX */
+
+@media all and (max-width: 20em) {
+  /* ******************
+HERO SECTION
+********************* */
+
+  .hero-img {
+    width: 80%;
+  }
+
+  /* ******************
+ABOUT SECTION
+********************* */
+
+  .about-section {
+    padding-left: 2rem;
+  }
+
+  .about-heading {
+    font-size: 1.4rem;
+  }
+
+  .about-paragraph {
+    font-size: 1.2rem;
+  }
+
+  .about-box-heading {
+    font-size: 1.3rem;
+  }
+
+  .compare-box-list-item {
+    font-size: 1.2rem;
+  }
+
+  /* ******************
+HOW IT WORKS SECTION
+********************* */
+
+  .hiw-heading-text {
+    font-size: 1.5rem;
+  }
+
+  .hiw-paragraph {
+    font-size: 1.2rem;
+  }
+
+  /* ******************
+PRICING SECTION
+********************* */
+
+  .pricing-paragraph {
+    font-size: 1.3rem;
+  }
+
+  .pricing-cta {
+    font-size: 1.3rem;
+  }
+
+  /* End media */
+}
